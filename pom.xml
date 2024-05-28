@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.234.193.34:8081/repository/First_Project_Release/</url>
+	      <url>http://18.234.193.34:8081/repository/Dev-Pro-Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.234.193.34:8081/repository/First_Project_Snapshot/</url>
+	      <url>http://18.234.193.34:8081/repository/Dev-Pro-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
